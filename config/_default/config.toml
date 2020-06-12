@@ -6,7 +6,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Academic"
+title = "Zhishuai Zhang"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
@@ -40,10 +40,10 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 # Workaround Hugo publishing taxonomy URLs as plurals - consistently use singular across Academic.
 [permalinks]
-  authors = "/author/:slug/"
-  tags = "/tag/:slug/"
-  categories = "/category/:slug/"
-  publication_types = "/publication-type/:slug/"
+  # authors = "/author/:slug/"
+  # tags = "/tag/:slug/"
+  # categories = "/category/:slug/"
+  # publication_types = "/publication-type/:slug/"
 
 [outputs]
   home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
@@ -75,33 +75,33 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 # Taxonomies.
 [taxonomies]
-  tag = "tags"
-  category = "categories"
-  publication_type = "publication_types"
-  author = "authors"
+  # tag = "tags"
+  # category = "categories"
+  # publication_type = "publication_types"
+  # author = "authors"
 
 # Related content.
-[related]
-  threshold = 80.0
-  includeNewer = true
-  toLower = true
+# [related]
+#   threshold = 80.0
+#   includeNewer = true
+#   toLower = true
 
-  [[related.indices]]
-    name = "title"
-    weight = 60.0
+#   [[related.indices]]
+#     name = "title"
+#     weight = 60.0
 
-  [[related.indices]]
-    name = "summary"
-    weight = 50.0
+#   [[related.indices]]
+#     name = "summary"
+#     weight = 50.0
 
-  [[related.indices]]
-    name = "tags"
-    weight = 80.0
+#   [[related.indices]]
+#     name = "tags"
+#     weight = 80.0
 
-  [[related.indices]]
-    name = "categories"
-    weight = 70.0
+#   [[related.indices]]
+#     name = "categories"
+#     weight = 70.0
 
-  [[related.indices]]
-    name = "authors"
-    weight = 20.0
+#   [[related.indices]]
+#     name = "authors"
+#     weight = 20.0
