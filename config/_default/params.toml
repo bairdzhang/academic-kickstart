@@ -93,11 +93,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Krieger 147, 3400 North Charles Street", city = "Baltimore", region = "MD", postcode = "21218", country = "United States", country_code = "US"}
+address = {street = "100 Mayfield Avenue", city = "Mountain View", region = "CA", postcode = "94043 [WFH in MD]", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "39.328364", longitude = "-76.620130"}
+coordinates = {latitude = "37.408366", longitude = "-122.104705"}
 
 # Directions for visitors to locate you.
 directions = ""

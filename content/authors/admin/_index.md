@@ -10,26 +10,25 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Computer Science
+role: Software Engineer in Waymo
 
 # Organizations/Affiliations
 organizations:
-- name: Johns Hopkins University
-  url: "https://jhu.edu/"
+- name: Waymo LLC
+  url: "https://waymo.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 interests:
-- Object Recognition and Detection
+- Autonomous Driving
 - Computer Vision
-- Machine Learning
 
 education:
   courses:
-  - course: PhD Candidate in Computer Science
+  - course: PhD in Computer Science
     institution: Johns Hopkins University
-  - course: BEng in Computer Science
+  - course: BE in Computer Science
     institution: University of Science and Technology of China
     year: 2016
 
@@ -64,4 +63,4 @@ email: ""
 user_groups: []
 ---
 
-I am a 4-th year Ph.D. Candidate in Computer Science Department at the [Johns Hopkins University](https://jhu.edu/), under the supervision of [Prof. Alan Yuille](http://www.cs.jhu.edu/~ayuille/). Currently, I am a member of [Computational Cognition, Vision, and Learning](http://ccvl.jhu.edu/). Before that, I obtained Bachelor of Engineering in Computer Science Department at the [University of Science and Technology of China](http://en.ustc.edu.cn/).
+I am a software engineer in [Waymo](https://waymo.com). Before that, I obtained Ph.D. in Computer Science from the [Johns Hopkins University](https://jhu.edu/), under the supervision of [Prof. Alan Yuille](http://www.cs.jhu.edu/~ayuille/), as a member of [Computational Cognition, Vision, and Learning](http://ccvl.jhu.edu/). I obtained Bachelor of Engineering in the Computer Science Department at the [University of Science and Technology of China](http://en.ustc.edu.cn/).
